@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "421357544503",
+    "firebase_url": "https://smart-survey-18cfe.firebaseio.com",
+    "project_id": "smart-survey-18cfe",
+    "storage_bucket": "smart-survey-18cfe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421357544503:android:328be7072190d029",
+        "android_client_info": {
+          "package_name": "com.example.smartsurvey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421357544503-irjlit0bn4l3n9utmrujev58jkg87e0i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smartsurvey",
+            "certificate_hash": "570fe4d6113bbbb8dd92c9b066e529d783d50c98"
+          }
+        },
+        {
+          "client_id": "421357544503-3t71nmmkv3f62gihdnqjgjvto8nshmbn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIo5aU2dy5o-iSp4Eg1-KtQJLio1gxMCo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421357544503-3t71nmmkv3f62gihdnqjgjvto8nshmbn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
