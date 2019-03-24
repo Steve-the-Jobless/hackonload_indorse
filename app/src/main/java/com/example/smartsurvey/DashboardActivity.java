@@ -14,6 +14,7 @@ public class DashboardActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_dashboard);
         TextView newSurveyView = (TextView) findViewById(R.id.newSurveyView);
+        TextView viewSurveyView =(TextView) findViewById(R.id.viewSurveyView);
         newSurveyView.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -21,6 +22,14 @@ public class DashboardActivity extends AppCompatActivity {
                 startActivity(intent);
             }
         });
+        //viewSurveyView.setOnClickListener(new View.OnClickListener() {
+            /*@Override
+            public void onClick(View v) {
+                Intent intent = new Intent(getApplicationContext(),ExampleSurvey.class);
+                startActivity(intent);
+            }
+        });*/
+
     }
 
 

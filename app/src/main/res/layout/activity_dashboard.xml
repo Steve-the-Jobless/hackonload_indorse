@@ -49,4 +49,5 @@
         android:textSize="30sp"
         app:layout_constraintStart_toStartOf="@+id/imageView3"
         app:layout_constraintTop_toBottomOf="@+id/newSurveyView" />
+
 </android.support.constraint.ConstraintLayout>
